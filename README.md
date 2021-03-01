@@ -1,3 +1,3 @@
 # website
 
-A static website with links to my online profiles
+Source code for my website [hum4n01d.me](https://hum4n01d.me)
